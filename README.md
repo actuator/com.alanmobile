@@ -1,6 +1,8 @@
-# com.alanmobile — Dirty Stream (path traversal via shared content URI)
+# com.alanmobile - Dirty Stream (path traversal via shared content URI)
 
 Zero-click arbitrary file write into `com.alanmobile`'s private internal storage, reachable by any installed app through the exported share activity. No permission required. This repo is the attacker app that demonstrates it.
+
+<img width="1862" height="962" alt="com alanmobile-dirtyStreamPathTrav" src="https://github.com/user-attachments/assets/23ecb5b0-f330-422b-842a-c79162c2a81c" />
 
 ## 1. Vulnerability (confirmed from bytecode)
 
